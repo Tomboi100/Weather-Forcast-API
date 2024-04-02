@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<WeatherForecasting>
+   <Date Date="2023-11-23">
+      <GoodWeather>
+         Enjoy the weather if you are in these cities
+         <cities>
+            <city name="Birmingham"/>
+            <city name="Cardiff"/>
+            <city name="Derby"/>
+            <city name="London"/>
+         </cities>
+      </GoodWeather>
+      <PoorWeather Issue="Raining">
+         Bring your umbrella if you are in these cities
+         <cities>
+            <city name="Aberystwyth"/>
+            <city name="Bangor"/>
+            <city name="Leeds"/>
+            <city name="Manchester"/>
+            <city name="Swansea"/>
+         </cities>
+      </PoorWeather>
+   </Date>
+</WeatherForecasting>
